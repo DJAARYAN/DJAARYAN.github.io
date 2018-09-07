@@ -19,7 +19,9 @@ html {
 
 body {
 	background-image: url("http://diarioveaonline.com/wp-content/uploads/2018/06/elegant-black-and-white-wallpaper-for-desktop-19.jpg");
-  font: 18px/1.4 $helvetica;
+        background-repeat: no-repeat;
+	background-position: fixed;
+	font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
